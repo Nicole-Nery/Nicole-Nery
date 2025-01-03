@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá, seja bem-vindo! 👋
 
-<!--
-**Nicole-Nery/Nicole-Nery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Minha paixão está em criar soluções inovadoras que conectem ciência, engenharia e cuidados com a saúde. No meu dia a dia, como graduanda de Engenharia Biomédica, estou sempre explorando:  
 
-Here are some ideas to get you started:
+- 💻 **Desenvolvimento de software**: Tenho experiência com **R**, **Python** e **análise de dados**.  
+- 📊 **Projetos científicos**: Já participei de pesquisas voltadas para saúde e inovação.  
+- 🤖 **Instrumentação biomédica**: Gosto de criar dispositivos e sistemas que conectam hardware e software.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 O que você encontra por aqui:  
+- 📂 Repositórios de projetos acadêmicos e pessoais.  
+- 🔧 Ferramentas para análise de dados e processamento de sinais biomédicos.  
+- 🌟 Um pouco da minha jornada no mundo da tecnologia.  
+
+---
