@@ -1,6 +1,6 @@
 ### Olá, seja bem-vindo! 👋
 
-Minha paixão está em criar soluções inovadoras que conectem ciência, engenharia e cuidados com a saúde. No meu dia a dia, como graduanda de Engenharia Biomédica, estou sempre explorando:  
+Minha paixão está em desenvolver soluções que conectem ciência, engenharia e cuidados com a saúde. No meu dia a dia, como graduanda de Engenharia Biomédica, estou sempre explorando:  
 
 - 💻 **Desenvolvimento de software**: Tenho experiência com **R**, **Python** e **análise de dados**.  
 - 📊 **Projetos científicos**: Já participei de pesquisas voltadas para saúde e inovação.  
